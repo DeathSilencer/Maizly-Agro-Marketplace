@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417516172749",
+    "project_id": "marketplacemaiz",
+    "storage_bucket": "marketplacemaiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417516172749:android:c732f341165ce6fd4ac084",
+        "android_client_info": {
+          "package_name": "com.david.maizly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1JmtGSegCH4r6oQ1dwKbl3kkDdVuJboE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
