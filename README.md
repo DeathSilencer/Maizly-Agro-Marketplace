@@ -45,18 +45,18 @@
 
 ## `>_` Propósito
 
-[cite_start]**Maizly** nace de una necesidad crítica en el campo mexicano: la comercialización del maíz enfrenta desafíos por prácticas tradicionales y falta de innovación[cite: 2165]. [cite_start]Los intermediarios ("coyotes") suelen imponer condiciones que afectan los ingresos de los productores[cite: 2168].
+**Maizly** nace de una necesidad crítica en el campo mexicano: la comercialización del maíz enfrenta desafíos por prácticas tradicionales y falta de innovación. Los intermediarios ("coyotes") suelen imponer condiciones que afectan los ingresos de los productores.
 
-[cite_start]Esta aplicación actúa como un **puente tecnológico**[cite: 2160], ofreciendo un canal confiable, accesible y directo.
+Esta aplicación actúa como un **puente tecnológico**, ofreciendo un canal confiable, accesible y directo.
 
 **Objetivos del Proyecto:**
 - **Eliminar Intermediarios:** Permitir que el agricultor venda directamente al consumidor final.
 - **Transparencia:** Precios claros y justos, visibles para todos.
-- [cite_start]**Inclusión Digital:** Una interfaz diseñada para reducir la brecha tecnológica y la desconfianza en zonas rurales[cite: 2171].
+- **Inclusión Digital:** Una interfaz diseñada para reducir la brecha tecnológica y la desconfianza en zonas rurales.
 
 > [!NOTE]
 > **Enfoque Educativo:** <br>
-> [cite_start]El proyecto no es solo código; incluye un componente de capacitación y alfabetización digital para asegurar que los productores adopten la tecnología con confianza[cite: 2179].
+> El proyecto no es solo código; incluye un componente de capacitación y alfabetización digital para asegurar que los productores adopten la tecnología con confianza.
 
 ---
 
@@ -109,28 +109,28 @@ Interfaz diseñada para ser intuitiva, segura y eficiente para usuarios con poca
 
 ## `>_` Características
 
-- [cite_start]**Catálogo Digital:** Publicación de ofertas de maíz con fotografías, descripciones y precios[cite: 2257].
-- [cite_start]**Geolocalización:** Identificación de compradores y vendedores cercanos para reducir costos logísticos[cite: 2259].
-- [cite_start]**Perfiles de Productor:** Fichas informativas con ubicación y tipos de cultivo (Maíz Blanco, Amarillo, Harinas)[cite: 2253].
-- [cite_start]**Gestión de Pedidos:** Carrito de compras electrónico con cálculo de totales en tiempo real[cite: 2233].
-- [cite_start]**Seguridad:** Pasarelas de pago y validación de usuarios para evitar fraudes y generar confianza[cite: 2177].
+- **Catálogo Digital:** Publicación de ofertas de maíz con fotografías, descripciones y precios.
+- **Geolocalización:** Identificación de compradores y vendedores cercanos para reducir costos logísticos.
+- **Perfiles de Productor:** Fichas informativas con ubicación y tipos de cultivo (Maíz Blanco, Amarillo, Harinas).
+- **Gestión de Pedidos:** Carrito de compras electrónico con cálculo de totales en tiempo real.
+- **Seguridad:** Pasarelas de pago y validación de usuarios para evitar fraudes y generar confianza.
 
 ---
 
 ## `>_` Arquitectura y Diseño
 
-[cite_start]El desarrollo siguió una **Metodología Ágil (Scrum)** con sprints semanales y validación constante con usuarios reales (agricultores)[cite: 2216].
+El desarrollo siguió una **Metodología Ágil (Scrum)** con sprints semanales y validación constante con usuarios reales (agricultores).
 
 ### 🛠️ Stack Tecnológico
 | Componente | Tecnología | Descripción |
 | :--- | :--- | :--- |
 | **Móvil** | Android / Kotlin | Desarrollo nativo para máximo rendimiento. |
 | **Diseño** | XML / Material Design | UI centrada en la usabilidad y accesibilidad. |
-| **Base de Datos** | SQL / SQLite | [cite_start]Modelo relacional robusto (Usuarios, Productos, Carrito)[cite: 2229]. |
+| **Base de Datos** | SQL / SQLite | Modelo relacional robusto (Usuarios, Productos, Carrito). |
 | **Backend** | PHP (Conexión API) | Gestión de peticiones y lógica de servidor. |
 
 ### 🧩 Modelo Relacional
-[cite_start]El sistema se estructura en cuatro entidades principales para garantizar la integridad de los datos[cite: 2229]:
+El sistema se estructura en cuatro entidades principales para garantizar la integridad de los datos:
 1. **Usuarios:** Gestión de identidad y seguridad.
 2. **Productores:** Datos de origen y ubicación de las cosechas.
 3. **Productos:** Inventario, precios y relaciones de stock.
@@ -140,10 +140,10 @@ Interfaz diseñada para ser intuitiva, segura y eficiente para usuarios con poca
 
 ## `>_` Impacto y Resultados
 
-[cite_start]Según las pruebas piloto realizadas y la investigación de campo[cite: 2256]:
+Según las pruebas piloto realizadas y la investigación de campo:
 
-- [cite_start]📈 **Rentabilidad:** Los precios en la app superaron en un **15%** a los ofrecidos por intermediarios tradicionales[cite: 2261].
-- [cite_start]🤝 **Confianza:** Se logró disminuir la resistencia tecnológica mediante capacitación acompañante[cite: 2260].
+- 📈 **Rentabilidad:** Los precios en la app superaron en un **15%** a los ofrecidos por intermediarios tradicionales.
+- 🤝 **Confianza:** Se logró disminuir la resistencia tecnológica mediante capacitación acompañante.
 - 🚜 **Modernización:** Validación de transacciones simuladas exitosas y uso de geolocalización efectiva.
 
 ---
@@ -154,7 +154,7 @@ Para probar el proyecto en un entorno local:
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/DeathSilencer/Maizly-Marketplace.git](https://github.com/DeathSilencer/Maizly-Marketplace.git)
+    git clone [https://github.com/DeathSilencer/Maizly-Agro-Marketplace.git](https://github.com/DeathSilencer/Maizly-Agro-Marketplace.git)
     ```
 2.  Abrir el proyecto en **Android Studio**.
 3.  Sincronizar los archivos Gradle.
@@ -165,9 +165,9 @@ Para probar el proyecto en un entorno local:
 
 ## `>_` Créditos
 
-- [cite_start]👨‍💻 **Desarrollador Principal:** David Platas [cite: 2136]
-- [cite_start]🎓 **Institución:** Universidad Politécnica del Valle de México [cite: 2138]
-- [cite_start]👥 **Colaboradores:** Jesús Ramírez, Dayana Ortiz, Yara Díaz[cite: 2136].
+- 👨‍💻 **Desarrollador Principal:** David Platas
+- 🎓 **Institución:** Universidad Politécnica del Valle de México
+- 👥 **Colaboradores:** Jesús Ramírez, Dayana Ortiz, Yara Díaz.
 
 <div align="center">
   <a href="https://github.com/DeathSilencer">
@@ -181,4 +181,4 @@ Para probar el proyecto en un entorno local:
 
 > [!Warning]
 > **Proyecto Académico:** <br>
-> [cite_start]Este software fue diseñado como parte de un proyecto de investigación universitaria para la carrera de Ingeniería en Tecnologías de la Información[cite: 2137]. Si bien es funcional, se recomienda su uso con fines educativos o de demostración.
+> Este software fue diseñado como parte de un proyecto de investigación universitaria para la carrera de Ingeniería en Tecnologías de la Información. Si bien es funcional, se recomienda su uso con fines educativos o de demostración.
