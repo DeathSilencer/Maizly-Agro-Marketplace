@@ -167,7 +167,6 @@ Para probar el proyecto en un entorno local:
 
 - 👨‍💻 **Desarrollador Principal:** David Platas
 - 🎓 **Institución:** Universidad Politécnica del Valle de México
-- 👥 **Colaboradores:** Jesús Ramírez, Dayana Ortiz, Yara Díaz.
 
 <div align="center">
   <a href="https://github.com/DeathSilencer">
