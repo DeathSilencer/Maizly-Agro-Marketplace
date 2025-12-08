@@ -17,7 +17,7 @@
 | 🌽 | **Innovación Social:** | *Incremento del 15% en ganancias para productores al eliminar intermediarios.* <br> Tecnología con impacto real. |
 |--|-------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 
-<br>
+<br> 
 </div>
 
 <p align="center">
